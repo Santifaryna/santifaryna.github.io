@@ -1,0 +1,18 @@
+			/*pseudo clases*/
+        /*visited*/
+        a:visited {
+            color: aquamarine;
+        }
+
+        /*pasar el mouse por arriba*/
+        a:hover {
+            color:blueviolet;
+            font-size: 18px;
+            text-decoration: line-through;
+        }
+        /*active*/
+        a:active {
+            color:green;
+            text-transform: uppercase;
+        }
+        
